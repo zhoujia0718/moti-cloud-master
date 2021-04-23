@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../javatest_for_idea/javatest_for_idea.iml" filepath="$PROJECT_DIR$/../javatest_for_idea/javatest_for_idea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/moti-cloud.iml" filepath="$PROJECT_DIR$/moti-cloud.iml" />
+    </modules>
+  </component>
+</project>

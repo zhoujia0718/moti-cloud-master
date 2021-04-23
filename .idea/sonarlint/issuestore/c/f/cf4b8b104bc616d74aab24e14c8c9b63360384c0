@@ -1,0 +1,36 @@
+
+k
+java:S11920"PDefine a constant instead of duplicating this literal "redirect:/index" 4 times.(Ò¶Ò“üÿÿÿÿ
+_
+java:S1192/"JDefine a constant instead of duplicating this literal "loginUser" 4 times.(ø®¯
+\
+java:S1192<"FDefine a constant instead of duplicating this literal "_code" 3 times.(¥âîñ
+a
+java:S1192?"FDefine a constant instead of duplicating this literal "index" 3 times.(¦œû×ÿÿÿÿÿ
+_
+java:S1192>"IDefine a constant instead of duplicating this literal "errorMsg" 3 times.(’¦Éª
+S
+java:S2629©"7Use the built-in formatting to construct this argument.(¢îú¢ıÿÿÿÿ
+N
+java:S2629²"7Use the built-in formatting to construct this argument.(¹ïÎŒ
+s
+java:S2629³"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(ÊÂï
+S
+java:S1874"7Remove this use of "getAuthorizeURL"; it is deprecated.(±ëãÉûÿÿÿÿ
+X
+java:S1854¢"ARemove this useless assignment to local variable "tokenExpireIn".(”Øê¹
+i
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(”Œ—³
+@
+java:S1659¡"$Declare "openID" on a separate line.(ã±•ìÿÿÿÿÿ
+]
+java:S3457©"AFormat specifiers should be used instead of string concatenation.(¢îú¢ıÿÿÿÿ
+X
+java:S3457²"AFormat specifiers should be used instead of string concatenation.(¹ïÎŒ
+X
+java:S3457³"AFormat specifiers should be used instead of string concatenation.(ÊÂï
+]
+java:S3457´"AFormat specifiers should be used instead of string concatenation.(öÕ¨üÿÿÿÿ
+]
+java:S3457Ğ"AFormat specifiers should be used instead of string concatenation.(”›Õ‡øÿÿÿÿ
+?	java:S108Ó")Either remove or fill this block of code.(Í¥‹‘

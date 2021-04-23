@@ -1,0 +1,90 @@
+
+h
+java:S2095Û"RUse try-with-resources or close this "BufferedOutputStream" in a "finally" clause.(ëÈýH
+h
+java:S2095ï"RUse try-with-resources or close this "BufferedOutputStream" in a "finally" clause.(ëÈýH
+o
+java:S11923"TDefine a constant instead of duplicating this literal "redirect:/temp-file" 3 times.(¼¼¬³ýÿÿÿÿ
+b
+java:S1192à"FDefine a constant instead of duplicating this literal "UTF-8" 3 times.(÷¢ø—üÿÿÿÿ
+^
+java:S1192."HDefine a constant instead of duplicating this literal "imgPath" 4 times.(È×¬û
+s
+java:S1192Å"WDefine a constant instead of duplicating this literal "redirect:/error400Page" 4 times.(áäÆÓùÿÿÿÿ
+q
+java:S1192…"UDefine a constant instead of duplicating this literal "redirect:/files?fId=" 5 times.(ÒŸ’¡ùÿÿÿÿ
+R
+java:S2629;"7Use the built-in formatting to construct this argument.(ª—âîùÿÿÿÿ
+R
+java:S2629Y"7Use the built-in formatting to construct this argument.(Ö±ìèýÿÿÿÿ
+R
+java:S2629_"7Use the built-in formatting to construct this argument.(Ýµ¼Þúÿÿÿÿ
+N
+java:S2629…"7Use the built-in formatting to construct this argument.(Îž½â
+N
+java:S2629‡"7Use the built-in formatting to construct this argument.(ÔÆÊ¦
+P
+java:S1141?"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141¸"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+l	java:S117³"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥«±¥ùÿÿÿÿ
+g
+java:S2259{"RA "NullPointerException" could be thrown; "getOriginalFilename()" can return null.(¢ÇŽl
+m
+java:S2259/"RA "NullPointerException" could be thrown; "getOriginalFilename()" can return null.(âŠÃ¼þÿÿÿÿ
+`
+java:S2259Œ"DA "NullPointerException" could be thrown; "myFile" is nullable here.(üØÍ•þÿÿÿÿ
+K
+java:S1854B"5Remove this useless assignment to local variable "t".(”±­·
+g
+java:S3776-"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÛÉÂx
+c
+java:S5361/"HReplace this call to "replaceAll()" by a call to the "replace()" method.(âŠÃ¼þÿÿÿÿ
+A
+java:S10757"&Remove this hard-coded path-delimiter.(è–¹Ðúÿÿÿÿ
+\
+java:S3457;"AFormat specifiers should be used instead of string concatenation.(ª—âîùÿÿÿÿ
+\
+java:S3457Y"AFormat specifiers should be used instead of string concatenation.(Ö±ìèýÿÿÿÿ
+\
+java:S3457_"AFormat specifiers should be used instead of string concatenation.(Ýµ¼Þúÿÿÿÿ
+S
+java:S1854 "<Remove this useless assignment to local variable "tempName".(†ôéÐ
+]
+java:S5361{"HReplace this call to "replaceAll()" by a call to the "replace()" method.(¢ÇŽl
+=
+java:S1075Ž"&Remove this hard-coded path-delimiter.(÷Ùá
+=
+java:S1075Ž"&Remove this hard-coded path-delimiter.(÷Ùá
+W
+java:S3457¯"AFormat specifiers should be used instead of string concatenation.(ˆ®œ(
+]
+java:S2142»"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+]
+java:S3457¿"AFormat specifiers should be used instead of string concatenation.(˜ðÂúÿÿÿÿ
+W
+java:S1854Ò";Remove this useless assignment to local variable "integer".(Š€Òûûÿÿÿÿ
+W
+java:S1854í";Remove this useless assignment to local variable "integer".(îÖÙ­ûÿÿÿÿ
+X
+java:S3457…"AFormat specifiers should be used instead of string concatenation.(Îž½â
+X
+java:S3457‡"AFormat specifiers should be used instead of string concatenation.(ÔÆÊ¦
+O
+java:S1854Ø"8Remove this useless assignment to local variable "test".(èµÚ
+i
+java:S3776¾"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.( ¦µ
+U
+java:S4719ì">Replace charset name argument with StandardCharsets.ISO_8859_1(¬™á¬
+P
+java:S4719ì"9Replace charset name argument with StandardCharsets.UTF_8(¬™á¬
+F
+java:S5869¥"*Remove duplicates in this character class.(Ë»ôóúÿÿÿÿ
+<
+java:S1481B"&Remove this unused "t" local variable.(”±­·
+H
+java:S1481Ò",Remove this unused "integer" local variable.(Š€Òûûÿÿÿÿ
+H
+java:S1481í",Remove this unused "integer" local variable.(îÖÙ­ûÿÿÿÿ
+@
+java:S1481Ø")Remove this unused "test" local variable.(èµÚ

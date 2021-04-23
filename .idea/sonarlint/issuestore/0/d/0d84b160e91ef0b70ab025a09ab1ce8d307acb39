@@ -1,0 +1,15 @@
+
+a
+java:S1192T"FDefine a constant instead of duplicating this literal "files" 6 times.(ÿ¨İ’ùÿÿÿÿ
+a
+java:S1192R"KDefine a constant instead of duplicating this literal "permission" 6 times.(æºÃ
+a
+java:S1192Q"KDefine a constant instead of duplicating this literal "statistics" 9 times.(†Ÿê«
+R
+java:S2629W"7Use the built-in formatting to construct this argument.(¾îĞ°ûÿÿÿÿ
+S
+java:S2629‚"7Use the built-in formatting to construct this argument.(¾îĞ°ûÿÿÿÿ
+\
+java:S3457W"AFormat specifiers should be used instead of string concatenation.(¾îĞ°ûÿÿÿÿ
+]
+java:S3457‚"AFormat specifiers should be used instead of string concatenation.(¾îĞ°ûÿÿÿÿ
